@@ -373,7 +373,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-74" value="&amp;nbsp;SW29" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-74" value="BMD-R" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="775" y="977" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-76" value="SW30" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
@@ -771,9 +771,6 @@
         </mxCell>
         <mxCell id="KwGO9gG3GW11_ctxLNMo-7" value="&lt;font style=&quot;color: rgb(255, 179, 102);&quot;&gt;【TEST】&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="851" y="931" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-25" value="TIE LINE1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="1183.5" width="92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9koymvwwehf0_YyZz0Qu-4" value="" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1012" y="1320.37" width="217" height="36.25" as="geometry" />
