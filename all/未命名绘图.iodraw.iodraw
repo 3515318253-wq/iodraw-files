@@ -243,6 +243,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1325" y="76.76000000000006" as="targetPoint" />
             <mxPoint x="1256" y="76.76" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1290" y="77" />
+              <mxPoint x="1290" y="77" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-5" value="EMB1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
@@ -927,7 +931,7 @@
           <mxGeometry x="850" y="702" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Own13J_lYHWIgaV0jdfM-60" value="Teranex&lt;br&gt;制式转换器" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1494" y="43.5" width="79" height="180" as="geometry" />
+          <mxGeometry x="1460" y="58" width="79" height="180" as="geometry" />
         </mxCell>
         <mxCell id="c3CkllrePBiOBMTD6VH1-1" value="CAM3返送" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="1" vertex="1">
           <mxGeometry x="1442" y="420.25" width="131" height="44" as="geometry" />
@@ -1191,6 +1195,16 @@
             <mxPoint x="1687" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1389" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htTfI62iuk8tJjjpUiBo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.866;exitY=0.278;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1335" y="86.76000000000006" as="targetPoint" />
+            <mxPoint x="1181" y="87" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1300" y="87" />
+              <mxPoint x="1300" y="87" />
             </Array>
           </mxGeometry>
         </mxCell>
