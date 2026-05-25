@@ -463,12 +463,13 @@
         <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-88" value="TX2-HD-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1327" y="209.5" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="TvHJ-Lt-pIYsX2ddGsiz-185" edge="1">
+        <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="Own13J_lYHWIgaV0jdfM-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1326" y="239.74999999999994" as="sourcePoint" />
             <mxPoint x="1467" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1379" y="240" />
+              <mxPoint x="1379" y="187" />
             </Array>
           </mxGeometry>
         </mxCell>
