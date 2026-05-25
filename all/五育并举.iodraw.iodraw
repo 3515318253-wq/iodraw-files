@@ -691,20 +691,14 @@
             <mxPoint x="1730.39" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pvW9pkpUwob-GPlWnuaf-7" value="制式转换器" style="whiteSpace=wrap;html=1;shadow=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="280" y="560" width="66" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pvW9pkpUwob-GPlWnuaf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="pvW9pkpUwob-GPlWnuaf-9" target="pvW9pkpUwob-GPlWnuaf-11" edge="1">
+        <mxCell id="pvW9pkpUwob-GPlWnuaf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FF33FF;strokeColor=#82b366;" parent="1" source="pvW9pkpUwob-GPlWnuaf-9" target="pvW9pkpUwob-GPlWnuaf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pvW9pkpUwob-GPlWnuaf-9" value="大屏信号" style="whiteSpace=wrap;html=1;shadow=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="56" y="560" width="64" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pvW9pkpUwob-GPlWnuaf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pvW9pkpUwob-GPlWnuaf-11" target="pvW9pkpUwob-GPlWnuaf-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pvW9pkpUwob-GPlWnuaf-11" value="ScanDo/Teranex&lt;div&gt;制式转换器&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="180" y="520" width="110" height="80" as="geometry" />
+          <mxGeometry x="196" y="540" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pvW9pkpUwob-GPlWnuaf-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
