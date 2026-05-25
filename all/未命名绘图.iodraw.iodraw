@@ -379,9 +379,6 @@
         <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-76" value="BMD-L" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="775" y="1012" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-77" value="SW31" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="775" y="1047" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-84" value="TX1-HD-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1326" y="52" width="88" height="30" as="geometry" />
         </mxCell>
@@ -636,9 +633,6 @@
         </mxCell>
         <mxCell id="PXDD8W54DJlyF0e1UikV-54" value="&lt;font&gt;（CAM5信号跳到VCN输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="892.75" y="1027" width="202.5" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="PXDD8W54DJlyF0e1UikV-55" value="&lt;font&gt;（CAM6信号跳到VCN输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=1;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="890.75" y="1062" width="202.5" height="17" as="geometry" />
         </mxCell>
         <mxCell id="PXDD8W54DJlyF0e1UikV-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="903.5" y="1339.25" width="32" height="4.25" as="geometry" />
