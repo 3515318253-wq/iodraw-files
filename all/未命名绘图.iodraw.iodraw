@@ -1171,7 +1171,7 @@
         <mxCell id="htTfI62iuk8tJjjpUiBo-3" value="Teranex&lt;div&gt;制式转换器&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1491" y="43" width="82" height="204.5" as="geometry" />
         </mxCell>
-        <mxCell id="htTfI62iuk8tJjjpUiBo-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TvHJ-Lt-pIYsX2ddGsiz-84">
+        <mxCell id="htTfI62iuk8tJjjpUiBo-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.004;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.033;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TvHJ-Lt-pIYsX2ddGsiz-84" target="htTfI62iuk8tJjjpUiBo-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1500" y="390" as="sourcePoint" />
             <mxPoint x="1550" y="340" as="targetPoint" />
