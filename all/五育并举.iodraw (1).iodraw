@@ -629,9 +629,6 @@
         <mxCell id="m0rGDKp68rgi6qyy0zZg-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="477.03999999999996" y="456.5" width="4.5" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="m0rGDKp68rgi6qyy0zZg-6" value="TX2" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="775" y="712" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="m0rGDKp68rgi6qyy0zZg-7" value="EMG" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="776" y="684" width="80" height="40" as="geometry" />
         </mxCell>
