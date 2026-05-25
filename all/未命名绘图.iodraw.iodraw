@@ -885,17 +885,6 @@
             <mxPoint x="642" y="1183.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Snbhc5nHDxKitEYV3S9l-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Own13J_lYHWIgaV0jdfM-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1326" y="76.74999999999994" as="sourcePoint" />
-            <mxPoint x="1442" y="77" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1379" y="77" />
-              <mxPoint x="1379" y="90" />
-              <mxPoint x="1467" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9koymvwwehf0_YyZz0Qu-4" value="" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1012" y="1320.37" width="217" height="36.25" as="geometry" />
         </mxCell>
@@ -938,7 +927,7 @@
           <mxGeometry x="850" y="702" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Own13J_lYHWIgaV0jdfM-60" value="Teranex&lt;br&gt;制式转换器" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1468" y="58" width="79" height="180" as="geometry" />
+          <mxGeometry x="1494" y="43.5" width="79" height="180" as="geometry" />
         </mxCell>
         <mxCell id="c3CkllrePBiOBMTD6VH1-1" value="CAM3返送" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;align=center;" parent="1" vertex="1">
           <mxGeometry x="1442" y="420.25" width="131" height="44" as="geometry" />
