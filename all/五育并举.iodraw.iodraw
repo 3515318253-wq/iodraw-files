@@ -587,7 +587,7 @@
         <mxCell id="PXDD8W54DJlyF0e1UikV-38" value="TIELINE3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1153" y="1002" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXDD8W54DJlyF0e1UikV-51" value="&lt;font&gt;（CLN信号跳到vcn输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" parent="1" vertex="1">
+        <mxCell id="PXDD8W54DJlyF0e1UikV-51" value="&lt;font&gt;（PGM信号跳到vcn输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="898.5" y="920" width="187" height="16" as="geometry" />
         </mxCell>
         <mxCell id="PXDD8W54DJlyF0e1UikV-52" value="&lt;font&gt;（CAM3信号跳到vcn输入进行录制）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" parent="1" vertex="1">
@@ -752,9 +752,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pvW9pkpUwob-GPlWnuaf-52" value="TCN-R" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=light-dark(#b95450, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="298.5" y="109.5" width="64" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="pvW9pkpUwob-GPlWnuaf-58" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="339.5" y="144" as="sourcePoint" />
@@ -763,9 +760,6 @@
               <mxPoint x="410" y="143.5" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="pvW9pkpUwob-GPlWnuaf-59" value="TIELINE2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="331.25" y="137.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pvW9pkpUwob-GPlWnuaf-61" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;（接入RETURN INPUT3）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="349.75" y="-12.5" width="124" height="20" as="geometry" />
