@@ -343,9 +343,6 @@
             <mxPoint x="1270" y="1025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-58" value="VCN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=light-dark(#b95450, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1096" y="1017" width="80" height="30" as="geometry" />
-        </mxCell>
         <UserObject label="REDLINK录像机" treeRoot="1" id="TvHJ-Lt-pIYsX2ddGsiz-63">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=15;fillStyle=solid;strokeColor=#666666;strokeWidth=3;verticalAlign=middle;fontFamily=Helvetica;fontColor=#FFFFFF;fillColor=#808080;" parent="1" vertex="1">
             <mxGeometry x="1270" y="912" width="176" height="20" as="geometry" />
@@ -601,15 +598,6 @@
             <mxPoint x="1076" y="1131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-57" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1153" y="1170" as="sourcePoint" />
-            <mxPoint x="1103" y="1043" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1153" y="1043" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TvHJ-Lt-pIYsX2ddGsiz-44" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1153" y="1031" as="sourcePoint" />
@@ -784,38 +772,8 @@
         <mxCell id="KwGO9gG3GW11_ctxLNMo-7" value="&lt;font style=&quot;color: rgb(255, 179, 102);&quot;&gt;【TEST】&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="851" y="931" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-9" value="TEST" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="642" y="1168" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.286;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.678;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KwGO9gG3GW11_ctxLNMo-25" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="421.7159999999999" y="1183.88" as="sourcePoint" />
-            <mxPoint x="531.1020000000001" y="1184.3999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-19" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="529" y="1180.5" width="7" height="7" as="geometry" />
-        </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-20" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="568" y="1180.5" width="7" height="7" as="geometry" />
-        </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-21" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="549.75" y="1158.5" width="4.5" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-22" value="H706U-H307L" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="498.5" y="1153.5" width="107" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-24" value="&lt;font&gt;（CLN信号跳到TEST）&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="463.5" y="1148" width="187" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="KwGO9gG3GW11_ctxLNMo-25" value="TIE LINE1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="1183.5" width="92" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KwGO9gG3GW11_ctxLNMo-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.718;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KwGO9gG3GW11_ctxLNMo-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="593" y="1183.94" as="sourcePoint" />
-            <mxPoint x="642" y="1183.94" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9koymvwwehf0_YyZz0Qu-4" value="" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1012" y="1320.37" width="217" height="36.25" as="geometry" />
