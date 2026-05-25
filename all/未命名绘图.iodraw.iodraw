@@ -1200,11 +1200,11 @@
         </mxCell>
         <mxCell id="htTfI62iuk8tJjjpUiBo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.866;exitY=0.278;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1335" y="86.76000000000006" as="targetPoint" />
-            <mxPoint x="1181" y="87" as="sourcePoint" />
+            <mxPoint x="1464" y="77.50000000000006" as="targetPoint" />
+            <mxPoint x="1310" y="77.74" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1300" y="87" />
-              <mxPoint x="1300" y="87" />
+              <mxPoint x="1429" y="77.74" />
+              <mxPoint x="1429" y="77.74" />
             </Array>
           </mxGeometry>
         </mxCell>
