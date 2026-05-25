@@ -879,9 +879,6 @@
             <mxPoint x="593" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Own13J_lYHWIgaV0jdfM-13" value="&amp;nbsp;EXT4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="637" y="1123.5" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Own13J_lYHWIgaV0jdfM-14" value="【PP-PGM】" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="850" y="702" width="90" height="30" as="geometry" />
         </mxCell>
