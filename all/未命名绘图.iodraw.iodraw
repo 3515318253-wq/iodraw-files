@@ -832,8 +832,8 @@
             <mxPoint x="1670" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="htTfI62iuk8tJjjpUiBo-9" value="BMD-R" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="785" y="987" width="80" height="30" as="geometry" />
+        <mxCell id="htTfI62iuk8tJjjpUiBo-9" value="EXTCN-1" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="776" y="936" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
